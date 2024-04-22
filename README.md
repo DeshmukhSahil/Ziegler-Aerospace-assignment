@@ -73,7 +73,6 @@ To login and obtain the authentication token:
 
 ## Deployment link: https://ecom-backend-tdhb.onrender.com/
 
-# Deployment link might not work effeciently with some Apis because of some compatiblity issue with the dependencies at the server (working on it), however, every API works perfectly fine on localhost.
 
 
 
